@@ -458,4 +458,5 @@
     sections.forEach(section => observer.observe(section));
   </script>
 </body>
+<img src="https://t.bkit.co/w_687fa41045537.gif" />
 </html>
